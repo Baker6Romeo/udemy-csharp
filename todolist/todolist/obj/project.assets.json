@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/todolist.csproj",
+      "projectUniqueName": "/home/baker6romeo/Documents/Development/Udemy/csharp/todolist/todolist/todolist.csproj",
       "projectName": "todolist",
-      "projectPath": "/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/todolist.csproj",
+      "projectPath": "/home/baker6romeo/Documents/Development/Udemy/csharp/todolist/todolist/todolist.csproj",
       "packagesPath": "/home/baker6romeo/.nuget/packages/",
-      "outputPath": "/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/",
+      "outputPath": "/home/baker6romeo/Documents/Development/Udemy/csharp/todolist/todolist/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/baker6romeo/.nuget/NuGet/NuGet.Config"
