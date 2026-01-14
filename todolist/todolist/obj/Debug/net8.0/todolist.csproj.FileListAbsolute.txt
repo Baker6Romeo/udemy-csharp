@@ -1,0 +1,15 @@
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/bin/Debug/net8.0/todolist
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/bin/Debug/net8.0/todolist.deps.json
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/bin/Debug/net8.0/todolist.runtimeconfig.json
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/bin/Debug/net8.0/todolist.dll
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/bin/Debug/net8.0/todolist.pdb
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.GeneratedMSBuildEditorConfig.editorconfig
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.AssemblyInfoInputs.cache
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.AssemblyInfo.cs
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.csproj.CoreCompileInputs.cache
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.sourcelink.json
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.dll
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/refint/todolist.dll
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.pdb
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/todolist.genruntimeconfig.cache
+/home/baker6romeo/Documents/Development/Udemy/chsarp/todolist/todolist/obj/Debug/net8.0/ref/todolist.dll
