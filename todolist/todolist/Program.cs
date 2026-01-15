@@ -6,22 +6,32 @@ Console.WriteLine("[R]emove a TODO");
 Console.WriteLine("[E]xit");
 
 string? userInput = Console.ReadLine();
-
+string output;
 if(userInput == "S")
 {
-  Console.WriteLine("See all TODOs");
+  output = "See all TODOs";
+  PrintSelectedOption(output);
 } else if (userInput == "A")
 {
-  Console.WriteLine("Add a TODO");
+  output = "Add a TODO";
+  PrintSelectedOption(output);
 } else if (userInput == "E")
 {
-  Console.WriteLine("Exit");
+  output = "Exit";
+  PrintSelectedOption(output);
 } else if (userInput == "R")
 {
-  Console.WriteLine("Remove TODO");
+  output = "Remove TODO";
+  PrintSelectedOption(output);
 } else 
 {
-  Console.WriteLine("Invalid Input");
+  output = "Invalid Input";
+  PrintSelectedOption(output);
 }
 
 Console.ReadKey();
+
+static void PrintSelectedOption(string selectedOption)
+{
+  Console.WriteLine($"Selected option: {selectedOption}");
+}
