@@ -31,7 +31,7 @@ if(userInput == "S")
 
 Console.ReadKey();
 
-void PrintSelectedOption(string selectedOption)
+static void PrintSelectedOption(string selectedOption)
 {
   Console.WriteLine($"Selected option: {selectedOption}");
 }
