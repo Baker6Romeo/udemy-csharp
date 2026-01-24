@@ -50,12 +50,11 @@ static string EvaluateGrade(int points)
   int num = points;
   return points switch
   {
-    10 or 9 => "A",
-    8 or 7 or 6 => "B",
-    5 or 4 or 3 => "C",
-    2 or 1 => "D",
-    0 => "E",
-    _ => "!"
+    >= 90 => "A",
+    >= 80 => "B",
+    >= 70 => "C",
+    >= 60 => "D",
+    < 60 => "E"
   };
 }
 
